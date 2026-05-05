@@ -149,7 +149,7 @@ Titanic-Dataset-EDA/
 
 3. **Open Jupyter and run notebooks**  
    - Launch Jupyter Notebook or JupyterLab
-   - Run `01_EDA.ipynb` first for comprehensive data exploration
+   - Run `EDA.ipynb` first for comprehensive data exploration
    - Then run `02_Modeling.ipynb` for preprocessing, training, and evaluation
 
 4. **View results**  
